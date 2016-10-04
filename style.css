@@ -1,0 +1,16 @@
+
+body{
+  background-color: #d1d0ce;
+}
+div{
+font-family: sans-serif;
+margin:auto;
+width: 500px;
+}
+blockquote{
+font-family: sans-serif;
+text-align: center;
+border-style: solid;
+padding: 20px;
+border-color: white;
+}
